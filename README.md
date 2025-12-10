@@ -66,9 +66,11 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 The project is contained within a single notebook file.
 
-Desition_Tree_Iris_Dataset/
+Desition_Tree_Iris_Dataset
+```
 ├── Desicion_Tree_Iris_Dataset.ipynb  
 ├── README.md
+```
 
 ### Running the Project
 
